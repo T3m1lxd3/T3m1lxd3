@@ -56,7 +56,10 @@ I'm a Software Engineer at PayOnDelivery with a B.S. in Computer Science from Ge
 ## Featured Projects
 
 ### 🏥 [Differential Diagnosis with Explainable AI](https://github.com/T3m1lxd3/Differential-Diagnosis)
-An AI system that predicts diseases from patient symptoms across 55+ conditions — and explains its reasoning using SHAP and LIME. Achieved **85% accuracy** after applying SMOTE to handle class imbalance.
+An Artificial Intelligence system that:
+- Predicts diseases from patient symptoms across 55+ conditions
+- Explains its reasoning using SHAP and LIME.
+- Achieved **85% accuracy** after applying SMOTE to handle class imbalance.
  
 `Python` `TensorFlow` `scikit-learn` `SHAP` `LIME` `Explainable AI`
 
