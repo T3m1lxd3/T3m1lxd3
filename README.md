@@ -31,6 +31,7 @@ I'm a Software Engineer at PayOnDelivery with a B.S. in Computer Science from Ge
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](<img alt="Static Badge" src="https://img.shields.io/badge/SQL-purple">)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -52,28 +53,19 @@ I'm a Software Engineer at PayOnDelivery with a B.S. in Computer Science from Ge
 
 ## Featured Projects
 
+### 🏥 [Differential Diagnosis with Explainable AI](https://github.com/T3m1lxd3/Differential-Diagnosis)
+An AI system that predicts diseases from patient symptoms across 55+ conditions — and explains its reasoning using SHAP and LIME. Achieved **85% accuracy** after applying SMOTE to handle class imbalance.
+ 
+`Python` `TensorFlow` `scikit-learn` `SHAP` `LIME` `Explainable AI`
+
+---
+
 ### 🎵 [Music Recommendation System](https://github.com/T3m1lxd3/Music-Recommendation-System)
 A machine learning project that recommends music using two approaches:
 - **Content-Based Filtering (CBF)** — recommends songs based on audio features
 - **Neural Collaborative Filtering (NCF)** — learns user preferences via neural networks
 
 `Python` `Jupyter Notebook` `scikit-learn` `Machine Learning`
-
----
-
-### 🌐 [Personal Website](https://github.com/T3m1lxd3/Personal-Website)
-My personal portfolio site built with HTML and CSS.
-
-`HTML` `CSS`
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T3m1lxd3&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Toni's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T3m1lxd3&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="160"/>
-</p>
 
 ---
 
